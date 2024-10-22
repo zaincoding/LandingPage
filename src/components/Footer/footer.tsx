@@ -19,7 +19,7 @@ export default function Footer(){
        <FaTwitter />
        </Link>
 
-       <Link className="hover:text-green-300" href="https.linkedin.com/in/zain-khan-coding">
+       <Link className="hover:text-green-300" href="https://linkedin.com/in/zain-khan-coding">
        <FaLinkedin />
        </Link>
       </div>
