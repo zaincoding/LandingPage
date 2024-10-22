@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image'
 import WelcomeMesssage from '../Header-Animation/Header-Animation';
-// import header from './nav.module.css';
 
 function Header(){
 
@@ -10,7 +9,7 @@ function Header(){
        <header  className='bg-blue-600  py-4 px-20'>
        <div  className='flex items-center'>
         
-        <Image src='/images/logo.png' alt='Logo' width='50' height='50'/>
+        <Image src='/images/logo.PNG' alt='Logo' width='50' height='50'/>
         
 <div  className='flex-grow text-center'>
 
