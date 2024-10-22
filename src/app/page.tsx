@@ -3,7 +3,6 @@ import Hero from '../components/Hero/hero';
 import Services from '@/components/Services/service';
 import Footer from '../components/Footer/footer'
 
-import Link from 'next/link'
 
 export default function Home() {
   return (
