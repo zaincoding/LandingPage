@@ -12,7 +12,7 @@ const Hero = ()=>{
          </p>
          <div className="relative w-full h-96">
                <Image
-                src="/images/herobg.png"
+                src="/images/herobg.PNG"
                  alt="Hero-image"
                  layout="fill"
                  objectFit="cover"
