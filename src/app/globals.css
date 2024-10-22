@@ -25,3 +25,14 @@ body {
     text-wrap: balance;
   }
 }
+
+
+/* 
+//adding some css properties: */
+
+ div{
+  text-align: center;
+  font-size: 30px;
+  color:#171717;
+  background-color: blue;
+}
