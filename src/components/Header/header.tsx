@@ -13,7 +13,6 @@ function Header(){
         
 <div  className='flex-grow text-center'>
 
-{/* <span className=' text-gray-800 text-4xl '>  Welcome to my Awoseme Website.</span> */}
 
       <WelcomeMesssage></WelcomeMesssage>
 </div>
